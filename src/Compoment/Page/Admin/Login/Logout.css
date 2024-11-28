@@ -1,0 +1,19 @@
+.log-out {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.log-out h2 {
+    margin-top: 20px;
+}
+
+.log-out a {
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+.log-out a:hover {
+    text-decoration: underline;
+}
